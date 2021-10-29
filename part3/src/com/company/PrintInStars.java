@@ -1,8 +1,7 @@
 package com.company;
 
-public class Main {
-
+public class PrintInStars {
     public static void main(String[] args) {
-        System.out.println("test gıthub");
+        System.out.println("test");
     }
 }
